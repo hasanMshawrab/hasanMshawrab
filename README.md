@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @hasanMshawrab
-- 👀 I’m interested in Software and Web Development
-- 🌱 I’m currently learning Java, Python, HTML, CSS, React, Angular, Node, Docker, C, Linux, etc...
-- 💞️ I’m looking to collaborate on any future project
+- Hi, I’m Hasan Mshawrab, Backend Engineer @anghami
+- I’m interested in Software Development
+- I have good knowlodge and experience in JAVA, php, and Python
+- I’m currently learning GO
+- I’m looking to collaborate on any future project
 - 📫 You can reach me via my email: hasanmshawrab0@gmail.com
 
 <!---
